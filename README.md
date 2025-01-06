@@ -3,8 +3,6 @@
 
 - 🌱 I’m currently learning Web development **ASP.NET, Angular, Type Script,**
 
-- 👨‍💻 All of my projects are available at [Currently in progress](Currently in progress)
-
 - 💬 Ask me about **C#, ASP.NET**
 
 - 📫 How to reach me **lubomir.pamukov.work@gmail.com**

@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Lyubomir Pamukov</h1>
+<h1 align="center">Hi 👋, <strong>I'm Lyubomir Pamukov</strong></h1>
 <h3 align="center">"My personal GitHub learning playground. Exploring C#, Angular, and the art of problem-solving one commit at a time!"🚀</h3>
 
 - 🌱 I’m currently learning Web development **ASP.NET, Angular, Type Script,**
